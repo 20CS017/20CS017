@@ -1,7 +1,7 @@
 #RIKEN GOYANI
 #20CS017
-#Aim         :learn Set,Dictionary,Tuple
-#link(Github):
+#Aim:learn Set,Dictionary,Tuple
+
 
 #following program for Set
 
