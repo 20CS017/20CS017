@@ -1,7 +1,7 @@
-#StudentName :RIKEN GOYANI
-#Studentid   :20CS017
+#RIKEN GOYANI
+#20CS017
 #Aim         :learn Set,Dictionary,Tuple
-#link(Github):
+
 
 #following program for Dictionary
 
