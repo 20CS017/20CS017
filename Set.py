@@ -1,7 +1,7 @@
-#StudentName :Yash KOladiya
-#Studentid   :20CS028
+#RIKEN GOYANI
+#20CS017
 #Aim         :learn Set,Dictionary,Tuple
-#link(Github): https://github.com/Ashy09/python-Assignment
+#link(Github):
 
 #following program for Set
 
