@@ -1,9 +1,7 @@
-#StudentName :Yash Koladiya
-#Studentid   :20CS028
+#RIKEN GOYANI
+#20CS017
 #Aim         :learn Set,Dictionary,Tuple
-#link(Github): https://github.com/Ashy09/python-Assignment
 
-#following program for Tuple
 
 #Que1:Write a python program to create tuple with diffrent data types
 fruit_tuple=('mango','apple','chikoo',10,True)
