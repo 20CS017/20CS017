@@ -1,6 +1,6 @@
 # Find Captain Room Number
-# 20CS097
-# vaibhav thummar
+# 20CS017
+# RIKEN GOYANI
 
 k = int(input())
 room_number = list(map(int, input().split()))
