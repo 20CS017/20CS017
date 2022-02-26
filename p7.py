@@ -10,3 +10,4 @@ for i in range(T):
         print("YES")
     else:
         print("NO")
+#RIKEN GOYANI (20CS017)
