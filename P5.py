@@ -5,3 +5,4 @@ s1= """hACKERrANK.COM PRESENTS "pYTHONIST 2"."""
 s2 = s1.swapcase()  
 #result  
 print (s2)  
+#RIKEN GOYANI (20CS017)
